@@ -1,4 +1,4 @@
 <?php
-include_once('./portfolio.html')
+include_once('./portfolio.html');
 
 ?>
